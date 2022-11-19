@@ -1,18 +1,19 @@
 {
-  "Todo": {
-    "title": {
-     "string": [
-        "Learn Angular",
-        "Learn NgRx",
-        "Learn NgXs",
-       "Learn React",
-       "Learn Redux",
-       "Learn React Native"
-      ]
-    },
-    "isCompleted": {
-     "boolean": {}
-    },
-    
-  }
+   "Todo":{
+      "title":{
+         "string":[
+            "Learn Angular",
+            "Learn NgRx",
+            "Learn NgXs",
+            "Learn React",
+            "Learn Redux",
+            "Learn React Native"
+         ]
+      },
+      "isCompleted":{
+         "boolean":{
+            
+         }
+      }
+   }
 }
