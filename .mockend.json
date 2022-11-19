@@ -2,11 +2,18 @@
    "Todo":{
       "title":{
          "string":[
+            "Install Angular CLI",
+            "Style app",
             "Learn Angular",
             "Learn NgRx",
+            "Drink water",
+            "Train hard',
             "Learn NgXs",
+            "Set up meeting with customer"
             "Learn React",
+            "Shopping",
             "Learn Redux",
+            "Buy milk",
             "Learn React Native"
          ]
       },
