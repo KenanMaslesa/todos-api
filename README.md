@@ -1,4 +1,5 @@
 EXAMPLES:
+
 https://mockend.com/KenanMaslesa/todos-api/todo
 
 https://mockend.com/KenanMaslesa/todos-api/todo?limit=10
